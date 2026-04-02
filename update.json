@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.0.0/OH.exe",
+  "changelog": "- Initial release v1.0.0\n- Account management with Health Score\n- Smart Source Discovery with niche classification\n- Bulk Source Discovery with revert\n- Device Fleet Dashboard\n- Auto-Scan Scheduler\n- Campaign Templates\n- Auto-Update system",
+  "release_date": "2026-04-02",
+  "min_version": "1.0.0"
+}
