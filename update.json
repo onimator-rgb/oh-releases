@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.1.0/OH.exe",
-  "changelog": "- Remote Error Reporting: crash capture + Report Problem button\n- Block/Ban Detection: action blocks, shadow bans, rate limits\n- Account Groups: organize by client/campaign\n- Bulk Account Operations: multi-select + bulk actions\n- Performance Trends: sparkline charts + trend dialog",
-  "release_date": "2026-04-03",
+  "version": "1.2.0",
+  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.2.0/OH.exe",
+  "changelog": "- System samodzielnej naprawy (Auto-Fix)\n- Automatyczne usuwanie niedzialajacych zrodel\n- Automatyczne wykrywanie zablokowanych kont\n- Wykrywanie offline urzadzen\n- Czyszczenie zduplikowanych zrodel\n- Automatyczne aktualizacje przez START.bat\n- Przycisk Check for Updates",
+  "release_date": "2026-04-06",
   "min_version": "1.0.0"
 }
