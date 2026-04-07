@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.4.0/OH.exe",
-  "changelog": "- Nuitka compiled (source code protected)\n- Anti-debug protection\n- All UI in English\n- Improved column readability\n- Updated documentation\n- START.bat auto-cleanup\n- Smaller file size (48 MB)",
+  "version": "1.5.0",
+  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.5.0/OH.exe",
+  "changelog": "- First-run Onboarding Wizard\n- What's New dialog after updates\n- Context Help buttons (?)\n- Interactive Guided Tour\n- All tutorials skippable and optional",
   "release_date": "2026-04-07",
   "min_version": "1.0.0",
-  "sha256": "238cf2fde260227bf5248bc680d75cc72189ed1cc354eb09491bc57d3d0bbd53"
+  "sha256": "080ea382429eee2077967ffc4d160fb992d652dfbbc6eff4601008817cdde5bb"
 }
