@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.5.0/OH.exe",
-  "changelog": "- First-run Onboarding Wizard\n- What's New dialog after updates\n- Context Help buttons (?)\n- Interactive Guided Tour\n- All new features default OFF",
-  "release_date": "2026-04-07",
+  "version": "1.6.0",
+  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.6.0/OH.exe",
+  "changelog": "- 1-Click Warmup Templates (Conservative, Moderate, Aggressive)\n- Apply warmup from account drawer or Actions menu\n- Search + sort in warmup deploy dialog\n- Double-click opens detail panel\n- Custom templates in Settings",
+  "release_date": "2026-04-13",
   "min_version": "1.0.0",
-  "sha256": "b264ed1bfec7b988e669f4b17c0857b20c185bf1f3177f7d1253439dd99042f7"
+  "sha256": "b4a1b65a977acaf42eed6d35117e8619718e8f5b2f1968f2d085c41678f517ac"
 }
