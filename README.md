@@ -1,5 +1,5 @@
 # OH Releases
 
-Latest: **v1.0.0**
+Latest version: **v1.7.0** (2026-04-14)
 
-Download: [OH.exe](https://github.com/onimator-rgb/oh-releases/releases/download/v1.0.0/OH.exe)
+Download: [OH.exe](https://github.com/onimator-rgb/oh-releases/releases/download/v1.7.0/OH.exe)

@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.6.0/OH.exe",
-  "changelog": "- 1-Click Warmup Templates (Conservative, Moderate, Aggressive)\n- Apply warmup from account drawer or Actions menu\n- Search + sort in warmup deploy dialog\n- Double-click opens detail panel\n- Custom templates in Settings",
-  "release_date": "2026-04-13",
+  "version": "1.7.0",
+  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.7.0/OH.exe",
+  "changelog": "- Timeslot column (1-4) with filter\n- Health score filter (Green/Yellow/Red)\n- Multi-select delete sources\n- Open Sources button in drawer\n- Source Date Added column\n- Column chooser (show/hide columns)\n- Horizontal scroll on accounts table\n- All column headers have tooltips\n- Wider column defaults for readability",
+  "release_date": "2026-04-14",
   "min_version": "1.0.0",
-  "sha256": "b4a1b65a977acaf42eed6d35117e8619718e8f5b2f1968f2d085c41678f517ac"
+  "sha256": "97df4fab1221eda197b8081b07e0e1cd3e0211c77b0a816d5196fb2493d06ca2"
 }
