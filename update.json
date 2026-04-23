@@ -1,8 +1,8 @@
 {
-  "version": "1.8.1",
-  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.8.1/OH.exe",
-  "changelog": "- Fix 4 crash bugs in AutoFixService\n- Context menus on tables\n- Cancel button for long operations\n- Background data loading (no UI freezes)\n- DB backup on startup\n- Atomic transactions\n- Light theme fixes\n- Follow Sources CSV export",
+  "version": "1.8.2",
+  "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.8.2/OH.exe",
+  "changelog": "- MainWindow split into 5 components\n- Thread-safe database connections\n- Atomic transactions\n- DB backup on startup\n- 107 new tests (543 total)\n- FBR corrupt file handling",
   "release_date": "2026-04-23",
   "min_version": "1.0.0",
-  "sha256": "4c5c69d5e82ed853eda61be44c5345ce68ffe1c02dafc1ce68e9e3083880a6ed"
+  "sha256": "628a30867c37139b2023b8dbbdf7c90d56a1cad49527c3ea88ca8d5a4369ff6b"
 }
