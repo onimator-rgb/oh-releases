@@ -1,8 +1,8 @@
 {
   "version": "1.8.0",
   "download_url": "https://github.com/onimator-rgb/oh-releases/releases/download/v1.8.0/OH.exe",
-  "changelog": "- Notifications Browser\n- Like Sources & LBR Analytics\n- Enhanced Settings Copier (215 settings)\n- Follow Sources CSV export\n- HikerAPI error handling improvements",
+  "changelog": "- Notifications Browser\n- Like Sources & LBR Analytics\n- Enhanced Settings Copier (215 settings)\n- Follow Sources CSV export\n- HikerAPI error handling improvements\n- Fix: bundle vcruntime140.dll",
   "release_date": "2026-04-23",
   "min_version": "1.0.0",
-  "sha256": "969fad46377e80f45e2befc43323ce3e8165501bb069c5bf2e4a6f94de267694"
+  "sha256": "75a141f712e1124c1dbe5d45791112c3dfbea6af1482f04981b727396f27eae5"
 }
